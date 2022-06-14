@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=/home/iqbal/demo/FPGAdemo2/impact.xsl
+OUTFILE=/home/iqbal/demo/FPGAdemo2/impact.xsl
+FAMILY=None
+PART=None
+WORKINGDIR=/home/iqbal/demo/FPGAdemo2
+LICENSE=iMPACT
+USER_INFO=iMPACT

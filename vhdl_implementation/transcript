@@ -1,0 +1,8 @@
+# Compile of half_adder.vhd was successful with warnings.
+# Compile of full_adder_1_bit.vhd was successful.
+# Compile of full_adder_4_bit.vhd was successful.
+# Compile of add_3.vhd was successful.
+# Compile of LED_7segment.vhd was successful.
+# Compile of bcd_8_bit.vhd was successful.
+# Compile of parking_lot_system.vhd was successful.
+# 7 compiles, 0 failed with no errors.

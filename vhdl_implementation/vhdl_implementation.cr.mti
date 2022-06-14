@@ -1,0 +1,56 @@
+D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/full_adder_1_bit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/full_adder_1_bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity full_adder_1_bit
+-- Compiling architecture data of full_adder_1_bit
+
+} {} {}} D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/parking_lot_system.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/parking_lot_system.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity parkingLotSystem
+-- Compiling architecture behavioral of parkingLotSystem
+
+} {} {}} D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/bcd_8_bit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/bcd_8_bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bcd_8_bit
+-- Compiling architecture behavioural of bcd_8_bit
+
+} {} {}} D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/LED_7segment.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/LED_7segment.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity LED_7segment
+-- Compiling architecture Behavioral of LED_7segment
+
+} {} {}} D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/half_adder.vhd {2 {vcom -work work -2002 -explicit -stats=none D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/half_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity half_adder_1_bit
+-- Compiling architecture data of half_adder_1_bit
+** Warning: D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/half_adder.vhd(10): (vcom-1615) Existing entity 'half_adder_1_bit' at line 1 will be overwritten.
+-- Compiling entity half_adder_1_bit
+** Warning: D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/half_adder.vhd(15): (vcom-1615) Existing architecture 'half_adder_1_bit(data)' at line 6 will be overwritten.
+-- Compiling architecture data of half_adder_1_bit
+
+} {} {}} D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/add_3.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/add_3.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity add3
+-- Compiling architecture behavioural of add3
+
+} {} {}} D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/full_adder_4_bit.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/GitHub/Projects-Cypher/hardware-engineering/vhdl_implementation/full_adder_4_bit.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2021.1 Compiler 2021.02 Feb  3 2021
+-- Loading package STANDARD
+-- Compiling entity full_adder_4_bit
+-- Compiling architecture data of full_adder_4_bit
+
+} {} {}}

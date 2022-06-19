@@ -1,6 +1,0 @@
-V3 3
-FL /home/iqbal/demo/FPGAdemo2/FPGAdemo2.vhd 2022/06/14.01:58:19 P.20131013
-EN work/FPGAdemo2 1655200766 FL /home/iqbal/demo/FPGAdemo2/FPGAdemo2.vhd \
-      PB ieee/std_logic_1164 1381692176
-AR work/FPGAdemo2/Behavioral 1655200767 \
-      FL /home/iqbal/demo/FPGAdemo2/FPGAdemo2.vhd EN work/FPGAdemo2 1655200766

@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=/home/iqbal/demo/FPGAdemo2/FPGAdemo2.ncd
-OUTFILE=/home/iqbal/demo/FPGAdemo2/FPGAdemo2.bit
-FAMILY=Spartan3
-PART=xc3s1000-5ft256
-WORKINGDIR=/home/iqbal/demo/FPGAdemo2
-LICENSE=WebPack
-USER_INFO=212493455_0_0_075

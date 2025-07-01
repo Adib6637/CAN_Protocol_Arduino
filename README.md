@@ -1,6 +1,6 @@
 # Readme
 
-This repository is where all the code for every subsystem stored
+Realizing communication between two microcontrollers via CAN protocol for a vehicle rear brake system
 
 
 ## CAN module
